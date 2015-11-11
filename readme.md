@@ -31,7 +31,7 @@ In this project, you will use a gaming engine called [*Twine*](http://twinery.or
    
 ## Play On!
    
-Now, please see the [Resources](resources.md) page for example history games written in Twine, tutorials, and other links that will help you. I'm quite happy to answer emails as well.
+Now, please see the [Resources](Resources.md) page for example history games written in Twine, tutorials, and other links that will help you. I'm quite happy to answer emails as well.
    
    email - shawn dot graham at carleton dot ca
    
