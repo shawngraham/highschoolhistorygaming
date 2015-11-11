@@ -1,4 +1,5 @@
-# An Introduction to Writing History Through Video Games
+### An Introduction to 
+# Writing History Through Video Games
 
 You've played lots of games - board games, video games, card games. You've been to a living history museum and seen people dress up to play at the past. But have you ever considered what *writing* history *via* a game entails?
 
