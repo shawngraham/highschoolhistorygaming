@@ -44,7 +44,13 @@ For instance,
 
 > The cows are in the field. Do you try to [[tip them over]]?
 
-This will create a new passage called 'tip them over'. Sometimes, you can achieve interesting effects by changing the way words are displayed (rather than moving to a new passage):
+This will create a new passage called 'tip them over'. If you want to link to a passage but not use the actual passage name in the text, you use an arrow `->` , thus,
+
+> The cows are still standing in the field. Let's [[do this-> tip them over]]!
+
+would display 'Let's do this!' but it would link back to the original `tip them over` passage.
+
+Sometimes, you can achieve interesting effects by changing the way words are displayed (rather than moving to a new passage):
 
 > There is a small dish of water. (click: "dish")[Your finger gets wet.]
 
