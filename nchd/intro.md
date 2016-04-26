@@ -48,7 +48,7 @@ This will create a new passage called 'tip them over'. If you want to link to a 
 
 > The cows are still standing in the field. Let's [[do this-> tip them over]]!
 
-would display 'Let's do this!' but it would link back to the original `tip them over` passage.
+would display 'Let's do this!' but it would link back to the original `tip them over` passage. ([Here's a bit more explanation about links and passages](https://jocelynmonahan.tumblr.com/post/143277526608/so-you-want-to-make-a-twine-game-part-2-links-and))
 
 Sometimes, you can achieve interesting effects by changing the way words are displayed (rather than moving to a new passage):
 
