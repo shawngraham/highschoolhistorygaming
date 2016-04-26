@@ -28,14 +28,17 @@
 + [Twine](http://twinery.org) is a tool for creating worlds; if you've ever written a story, you already know how to use it.
 + Select [a great unsolved mystery in Canadian history](http://canadianmysteries.ca/en/index.php). The website will include all of the source materials you'll need. Your challenge: **explore this mystery using the _affordances_ of Twine to create a compelling interactive world**
   + for instance, you might decide that the player is in the role of an investigator in Montreal trying to interview witnesses to the [Redpath Murders](http://canadianmysteries.ca/en/index.php). Use the words, images, maps, newspaper clippings, and so on to create a first-person exploration!
+  + start mapping out with pen and paper the scenes and how they interconnect. Set the initial scene with a 'hook' that draws your player/reader in; this doesn't have to be in words by the way. Look at **tip 1** and **tip 4** and start brainstorming
 
 ## How?
 
 + At [Twine's website](http://twinery.org) click on the 'use it online' button. This will take you to where you can create new stories or access existing ones.
-+ Click on the great big ![story](story.png) button to get started. The screen shifts to a blue-print mode, with a single 'passage' in the centre of the screen.
++ Click on the great big ![story](story.png) button to get started. The screen shifts to a blue-print mode, with a single 'passage' in the centre of the screen. Double-click on the passage to start writing.
 + Twine saves automatically in your browser. As long as you don't clear your browser's cache, your game will always be available. **Nevertheless** you should periodically export to html by clicking on the 'publish to file' link (which will let you save your game as a self-contained .html file):
+
 ![publishtofile](publishtofile.png)
-+ Double-click on the passage. Begin writing text to describe your ideal user's first interaction with your application. You use double `[[` and `]]` to mark text that describes some kind of choice.
+
++ So you've double-clicked on the passage. Begin writing text to describe your ideal user's first interaction with your application. You use double `[[` and `]]` to mark text that describes some kind of choice.
 
 For instance,
 
