@@ -65,3 +65,9 @@ another:
 > `<audio src="http://domainname/foldername/audioname.mp3" autoplay></audio>`
 
 _(there are other ways of doing images and audio, but these will suffice for now)_
+
+## Share
+
+When you 'publish game to file', Twine bundles everything together into a single html file. If you have webspace somewhere, you can put the file there and folks can play it on any device. If you don't have webspace, you can upload your html to [philome.la](http://philome.la), a site for sharing Twine games.
+
+- shawn dot graham at carleton dot ca
